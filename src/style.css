@@ -1,0 +1,25 @@
+.App {   
+    margin: 0%;   
+}
+
+.title {
+    font-family: Balsamiq Sans;
+    text-decoration: underline;   
+}
+
+img {
+    height: 500px;
+    border:2px solid black;
+    border-radius: 2em;
+}
+
+.titleh2 {
+    font-family:  Texturina;
+    margin-top : 0%;
+    padding-top : 0%;   
+}
+
+.sectiondes {   
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
